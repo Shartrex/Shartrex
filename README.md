@@ -10,7 +10,7 @@
 
 ![Shartrex GitHub stats](https://github-readme-stats.vercel.app/api?username=Shartrex&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shartrex)](https://github.com/Shartrex/github-readme-stats)
+
 
 ### Aprendendo JavaScript, HTML 5 e CSS
 <div style="display: inline_block"><br/>
