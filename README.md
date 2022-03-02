@@ -1,5 +1,5 @@
 ##  Saudações 
-### Eu sou o Alexandre 🤖
+### Eu sou o Alexandre 🦇
 ### Cursando TI 🖥️💻
 ### Apaixonado por jogos e tecnologia 🎮 🕹️
 
