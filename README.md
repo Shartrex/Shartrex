@@ -7,7 +7,11 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/Shartrex)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-lemos-647612233/)
 
-![Shartrex GitHub stats](https://github-readme-stats.vercel.app/api?username=Shartrex&show_icons=true&theme=radical)
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Shartrex&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shartrex&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 
 
