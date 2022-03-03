@@ -1,6 +1,6 @@
 ##  Sobre 
 
-##### Cursando TI - Escola Profissionalizante Santo Agostinho 🖥️💻
+##### 🧑🏿‍🎓Cursando TI - Escola Profissionalizante Santo Agostinho 🖥️💻
 ##### Apaixonado por jogos e tecnologia 🎮 🕹️
 ##### 📅 13/07/1998
 
