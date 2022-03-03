@@ -1,6 +1,6 @@
 <img src="">
 <h1><img src="https://cdn.discordapp.com/attachments/688582000537501730/949009213047324702/XOvg.gif" width="40"/>Olá,meu nome é Alexandre  </h1>
-  <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/688582000537501730/949013414804619285/vegeta-super-saiyan.gif" />
+  <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/688582000537501730/949017810967875584/6ba0c45d3c0a698f6decb6c52f0c2e4d.gif"width="200" />
 
 
   <a href="https://epsa.com.br" target="_blank"> 🎓 Cursando TI</a> - Escola Profissionalizante Santo Agostinho <br><br>🎮Apaixonado por jogos e tecnologias🕹️.<br>📚Buscando aprender cada vez mais. 📚<br>📅 13/07/1998<br>📪lemos1998.ti@gmail.com<br>
