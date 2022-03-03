@@ -1,4 +1,4 @@
-<img src="">
+
 <h1><img src="https://cdn.discordapp.com/attachments/688582000537501730/949009213047324702/XOvg.gif" width="40"/>Olá,meu nome é Alexandre  </h1>
   <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/688582000537501730/949017810967875584/6ba0c45d3c0a698f6decb6c52f0c2e4d.gif"width="200" />
 
